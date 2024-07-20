@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also every zip folder serves the purpose of a particular week work so download and check accordingly with the name of the folder.
 
 ## Available Scripts
 
